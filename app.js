@@ -19,15 +19,15 @@ window.addEventListener('DOMContentLoaded', () => {
                     span.classList.add('fade');
                 }, (idx+1) * 50)
             })
-        }, 2000);
+        }, 1400);
 
         setTimeout(() => {
             intro.style.top = '-100vh';
-        }, 2300);
+        }, 1700);
 
         setTimeout(() => {
             articles.classList.remove('article__none');
             articles.classList.add('article__active');
-        }, 2600);
+        }, 2000);
     })
 })
