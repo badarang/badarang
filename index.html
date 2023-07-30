@@ -57,10 +57,10 @@
 			let detailContainer = document.querySelector(".detail_container")
 			let time = 0;
 			window.onpageshow = function(event) {
-			if ( event.persisted || (window.performance && window.performance.navigation.type == 2)) {
-				detailContainer.classList.remove('disappear');
+				if ( event.persisted || (window.performance && window.performance.navigation.type == 2)) {
+					detailContainer.classList.remove('disappear');
+				}
 			}
-}
 			detailContainer.addEventListener("click", () => {
 				if (!isPlay) {
 					isPlay = true;
