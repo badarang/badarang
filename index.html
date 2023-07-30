@@ -56,6 +56,11 @@
 			let isPlay = false;
 			let detailContainer = document.querySelector(".detail_container")
 			let time = 0;
+			window.onpageshow = function(event) {
+			if ( event.persisted || (window.performance && window.performance.navigation.type == 2)) {
+				detailContainer.classList.remove('disappear');
+			}
+}
 			detailContainer.addEventListener("click", () => {
 				if (!isPlay) {
 					isPlay = true;
@@ -67,12 +72,12 @@
 					}, 10);
 
 					setTimeout(() => {
-						location.href = "index3.html";
 						HEIGHT = END_Y - START_Y;
 						TENSION = .01;
 						DAMP = .005;
 						isPlay = false;
-						detailContainer.classList.remove('disappear');
+						location.href = "index3.html";
+						//detailContainer.classList.remove('disappear');
 					}, 3000);
 
 				}
