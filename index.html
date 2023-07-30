@@ -59,6 +59,10 @@
 			window.onpageshow = function(event) {
 				if ( event.persisted || (window.performance && window.performance.navigation.type == 2)) {
 					detailContainer.classList.remove('disappear');
+					HEIGHT = END_Y - START_Y;
+					TENSION = .01;
+					DAMP = .005;
+					isPlay = false;
 				}
 			}
 			detailContainer.addEventListener("click", () => {
@@ -72,13 +76,8 @@
 					}, 10);
 
 					setTimeout(() => {
-						HEIGHT = END_Y - START_Y;
-						TENSION = .01;
-						DAMP = .005;
-						isPlay = false;
 						location.href = "index3.html";
-						//detailContainer.classList.remove('disappear');
-					}, 3000);
+					}, 100);
 
 				}
 			});
