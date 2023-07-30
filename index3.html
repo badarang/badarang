@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!--=============== FAVICON ===============-->
+        <link rel="shortcut icon" href="assets/img/perfil2.png" type="image/x-icon">
+        
+        <!--=============== REMIX ICONS ===============-->
+        <link href="https://cdn.jsdelivr.net/npm/remixicon@3.4.0/fonts/remixicon.css" rel="stylesheet">
+
+        <!--=============== CSS ===============-->
+        <link rel="stylesheet" href="assets/css/styles.css">
+        <link rel="stylesheet" href="style.css">
+        <title>Badarang</title>
+    </head>
+    <body>
+        <div class="intro">
+            <h1 class="logo-header">
+                <span class="logo">Bada</span><span class="logo">rang</span>
+            </h1>
+        </div>
+        <!--=============== HEADER PROFILE ===============-->
+        <div class="logo__active article__none">
+            <header class="profile container">
+                <!-- Theme Button -->
+                <i class="ri-moon-line change-theme" id="theme-button"></i>
+                <div class="profile__container grid">
+                    <div class="profile__data">
+                        <div class="profile__border">
+                            <div class="profile__perfil">
+                                <div class="front"><img src="assets/img/perfil.png" alt=""></div>
+                                <div class="back"><img src="assets/img/perfil2.png" alt=""></div>
+                            </div>
+                        </div>
+                        <h2 class="profile__name">Badarang (Haein Oh)</h2>
+                        <h3 class="profile__profession">Indie game programmer<br>Beatboxer</h3>
+                        <ul class="profile__social">
+                            <a href="https://www.instagram.com/h4ein/" target="_blank" class="profile__social-link">
+                                <i class="ri-instagram-line"></i>
+                            </a>
+                            <a href="https://blog.naver.com/badarangdev" target="_blank"class="profile__social-link">
+                                <i class="ri-pages-line"></i>
+                            </a>
+                            <a href="https://github.com/badarang" target="_blank" class="profile__social-link">
+                                <i class="ri-github-line"></i>
+                            </a>
+                            <a href="https://www.youtube.com/channel/UCS5-iJSia4N_FEeEY9zV0fg" target="_blank" class="profile__social-link">
+                                <i class="ri-youtube-line"></i>
+                            </a>
+                        </ul>
+                    </div>
+                    <div class="profile__info grid">
+                        <div class="profile__info-group">
+                            <h3 class="profile__info-number">3</h3>
+                            <p class="profile__info-description">Dream of <br>game developer</p>
+                        </div>
+                        <div class="profile__info-group">
+                            <h3 class="profile__info-number">11</h3>
+                            <p class="profile__info-description">Dream<br>came true</p>
+                        </div>
+                        <div class="profile__info-group">
+                            <h3 class="profile__info-number">22</h3>
+                            <p class="profile__info-description">Going <br>on<br>endlessly</p>
+                        </div>
+                    </div>
+                    <div class="profile__buttons">
+                        <a download="" href="https://drive.google.com/drive/folders/1IE2HkOvnqAyq4da2-pQKUuE5rZMK7Fb1" class="button">
+                            My Games <i class="ri-download-cloud-2-line"></i>
+                        </a>
+                        <div class="profile__buttons-small">
+                            <a href="https://qr.kakao.com/talk/sCdg57Qh_p.hECuFX7eic4CrtHE-" target="_blank" class="button button__small button__gray">
+                                <i class="ri-kakao-talk-line"></i>
+                            </a>
+                            <a href="https://discordapp.com/users/686553309045194795" target="_blank" class="button button__small button__gray">
+                                <i class="ri-discord-line"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <!--=============== MAIN ===============-->
+            <main class="main">
+                <section class="filters container">
+                    <!--=============== FILTERS TABS ===============-->
+                    <ul class="filters__content">
+                        <button class="filters__button filter-tab-active" data-target="#projects">
+                            Games
+                        </button>
+                        <button class="filters__button" data-target="#skills">
+                            Skills
+                        </button>
+                    </ul>
+                    <div class="filters__sections">
+                        <!--=============== PROJECTS ===============-->
+                        <div class="projects__content grid filters__active" data-content id="projects">
+                            <div class="games__description">
+                                <span>Since I was 11</span>
+                                <span>&nbsp;My own games</span>
+                                <span>Sort by date</span>
+                            </div>
+                            <article class="projects__card">
+                                <img src="assets/img/project1.png" alt="" class="projects__img">
+                                <div class="projects__modal">
+                                    <div>
+                                        <span class="projects__subtitle">Platformer</span>
+                                        <h3 class="projects__title">I will help you</h3>
+                                        <a href="https://badarang.itch.io/i-will-help-you" class="projects__button button button__small">
+                                            <i class="ri-link"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="projects__card">
+                                <img src="assets/img/project2.png" alt="" class="projects__img">
+                                <div class="projects__modal">
+                                    <div>
+                                        <span class="projects__subtitle">Shooting Platformer</span>
+                                        <h3 class="projects__title">SantaSanta</h3>
+                                        <a href="https://badarang.itch.io/santasanta" class="projects__button button button__small">
+                                            <i class="ri-link"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="projects__card">
+                                <img src="assets/img/project3.png" alt="" class="projects__img">
+                                <div class="projects__modal">
+                                    <div>
+                                        <span class="projects__subtitle">Platformer</span>
+                                        <h3 class="projects__title">Running Alpha</h3>
+                                        <a href="https://badarang.itch.io/running-alpha" class="projects__button button button__small">
+                                            <i class="ri-link"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="projects__card">
+                                <img src="assets/img/project4.png" alt="" class="projects__img">
+                                <div class="projects__modal">
+                                    <div>
+                                        <span class="projects__subtitle">Platformer</span>
+                                        <h3 class="projects__title">Eaten</h3>
+                                        <a href="https://badarang.itch.io/eaten" class="projects__button button button__small">
+                                            <i class="ri-link"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="projects__card">
+                                <img src="assets/img/project5.png" alt="" class="projects__img">
+                                <div class="projects__modal">
+                                    <div>
+                                        <span class="projects__subtitle">RPG</span>
+                                        <h3 class="projects__title">Peacetown</h3>
+                                        <a href="https://badarang.itch.io/peacetown" class="projects__button button button__small">
+                                            <i class="ri-link"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </article>
+                            
+                            <article class="projects__card">
+                                <img src="assets/img/project6.png" alt="" class="projects__img">
+                                <div class="projects__modal">
+                                    <div>
+                                        <span class="projects__subtitle">Strategy</span>
+                                        <h3 class="projects__title">Involution</h3>
+                                        <a href="https://badarang.itch.io/involution" class="projects__button button button__small">
+                                            <i class="ri-link"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="projects__card">
+                                <img src="assets/img/project7.png" alt="" class="projects__img">
+                                <div class="projects__modal">
+                                    <div>
+                                        <span class="projects__subtitle">Platformer</span>
+                                        <h3 class="projects__title">Morathon</h3>
+                                        <a href="https://badarang.itch.io/morathon" class="projects__button button button__small">
+                                            <i class="ri-link"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="projects__card">
+                                <img src="assets/img/project8.png" alt="" class="projects__img">
+                                <div class="projects__modal">
+                                    <div>
+                                        <span class="projects__subtitle">Shooting</span>
+                                        <h3 class="projects__title">Velocity</h3>
+                                        <a href="https://badarang.itch.io/velocity" class="projects__button button button__small">
+                                            <i class="ri-link"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="projects__card">
+                                <img src="assets/img/project9.png" alt="" class="projects__img">
+                                <div class="projects__modal">
+                                    <div>
+                                        <span class="projects__subtitle">Shooting</span>
+                                        <h3 class="projects__title">Espectro</h3>
+                                        <a href="https://badarang.itch.io/espectro" class="projects__button button button__small">
+                                            <i class="ri-link"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="projects__card">
+                                <img src="assets/img/project10.png" alt="" class="projects__img">
+                                <div class="projects__modal">
+                                    <div>
+                                        <span class="projects__subtitle">Platformer</span>
+                                        <h3 class="projects__title">Bastabo Action</h3>
+                                        <a href="https://badarang.itch.io/bastabo-action" class="projects__button button button__small">
+                                            <i class="ri-link"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="projects__card">
+                                <img src="assets/img/project11.png" alt="" class="projects__img">
+                                <div class="projects__modal">
+                                    <div>
+                                        <span class="projects__subtitle">Clicker</span>
+                                        <h3 class="projects__title">Nuasis: The Planet</h3>
+                                        <a href="https://badarang.itch.io/nuasis-the-planet" class="projects__button button button__small">
+                                            <i class="ri-link"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="projects__card">
+                                <img src="assets/img/project12.png" alt="" class="projects__img">
+                                <div class="projects__modal">
+                                    <div>
+                                        <span class="projects__subtitle">Platformer</span>
+                                        <h3 class="projects__title">Hugevill</h3>
+                                        <a href="https://replit.com/@ltebtr/Hugevill?v=1" class="projects__button button button__small">
+                                            <i class="ri-link"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="projects__card">
+                                <img src="assets/img/project13.gif" alt="" class="projects__img">
+                                <div class="projects__modal">
+                                    <div>
+                                        <span class="projects__subtitle">Roguelike</span>
+                                        <h3 class="projects__title">WithSmith</h3>
+                                        <a href="https://blog.naver.com/badarangdev/223106103199" class="projects__button button button__small">
+                                            <i class="ri-link"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+
+                        <!--=============== SKILLS ===============-->
+                        <div class="skills__content grid" data-content id="skills">
+                            <div class="skills__box education__area">
+                                <p class="education__text">Education</p><br>
+                                <a href="https://kraftonjungle.notion.site/1-35dce7ea4bc9432cbdd0574178135dc8"><p>Krafton Jungle Game Lab 1st</p></a>
+                                <p class="smallest">2023.08.14 - 2024.01.12</p>
+                                <p>Army security specialist</p>
+                                <p class="smallest">2021.07.12 - 2023.01.11</p>
+                                <a href="https://fund.inha.ac.kr/cop/search/introList.do?siteId=eng&deptCode=1184&majorCodeH=217&majorCodeS=0009&codeS=0183&id=eng_030102200000"><p>Inha University</p></a>
+                                <p class="smallest">2020 - Present | Computer Engineering</p>
+                                <p>Jinsung Highschool</p>
+                                <p class="smallest">2017 - 2019</p>
+                            </div>
+
+                            <div class="skills__area">
+                                <h3 class="skills__title">
+                                    Full stack developer
+                                </h3>
+                                <div class="skills__box">
+                                    <div class="skills__group">
+                                        <div class="skills__data">
+                                            <i class="ri-checkbox-circle-line"></i>
+                                            <div>
+                                                <h3 class="skills__name">HTML</h3>
+                                                <span class="skills__level">Intermediate</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="skills__data">
+                                            <i class="ri-checkbox-circle-line"></i>
+                                            <div>
+                                                <h3 class="skills__name">CSS</h3>
+                                                <span class="skills__level">Intermediate</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="skills__data">
+                                            <i class="ri-checkbox-circle-line"></i>
+                                            <div>
+                                                <h3 class="skills__name">JavaScript</h3>
+                                                <span class="skills__level">Basic</span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="skills__group">
+                                        <div class="skills__data">
+                                            <i class="ri-checkbox-circle-line"></i>
+                                            <div>
+                                                <h3 class="skills__name">Python</h3>
+                                                <span class="skills__level">Basic</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="skills__data">
+                                            <i class="ri-checkbox-circle-line"></i>
+                                            <div>
+                                                <h3 class="skills__name">MySQL</h3>
+                                                <span class="skills__level">Intermediate</span>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="skills__data">
+                                            <i class="ri-checkbox-circle-line"></i>
+                                            <div>
+                                                <h3 class="skills__name">Node Js</h3>
+                                                <span class="skills__level">Basic</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="skills__area">
+                                <h3 class="skills__title">
+                                    Game Developer
+                                </h3>
+                                <div class="skills__box">
+                                    <div class="skills__group">
+                                        <div class="skills__data">
+                                            <i class="ri-checkbox-circle-line"></i>
+                                            <div>
+                                                <h3 class="skills__name">GML - &lt;GMS2&gt;</h3>
+                                                <span class="skills__level">Advanced</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="skills__data">
+                                            <i class="ri-checkbox-circle-line"></i>
+                                            <div>
+                                                <h3 class="skills__name">C++</h3>
+                                                <span class="skills__level">Intermediate</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="skills__data">
+                                            <i class="ri-checkbox-circle-line"></i>
+                                            <div>
+                                                <h3 class="skills__name">C#</h3>
+                                                <span class="skills__level">Basic</span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="skills__group">
+                                        <div class="skills__data">
+                                            <i class="ri-checkbox-circle-line"></i>
+                                            <div>
+                                                <h3 class="skills__name">Python</h3>
+                                                <span class="skills__level">Basic</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="skills__data">
+                                            <i class="ri-checkbox-circle-line"></i>
+                                            <div>
+                                                <h3 class="skills__name">JavaScript</h3>
+                                                <span class="skills__level">Basic</span>
+                                            </div>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="skills__box baekjoon">
+                                <a href="https://solved.ac/gooderthanu">
+                                    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gooderthanu" alt="Solved.ac프로필">
+                                </a>
+                            </div>
+                            
+
+                        </div>
+                    </div>
+                </section>
+            </main>
+
+            <!--=============== FOOTER ===============-->
+            <footer class="footer container">
+                <span class="footer__copy">
+                    &#169; Badarang. All rights reserved
+                </span>
+            </footer>
+        </div>
+
+        <!--=============== SCROLLREVEAL ===============-->
+        <script src="assets/js/scrollreveal.min.js"></script>
+
+        <!--=============== MAIN JS ===============-->
+        <script src="assets/js/main.js"></script>
+
+        <script src="app.js"></script>
+    </body>
+</html>

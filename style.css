@@ -1,0 +1,76 @@
+:root {
+    --col1 : rgba(28,107,160,.75);
+    --col2 : rgba(20,80,120,.80);
+    --col3 : rgba(15,60,90,.85);
+    --col4 : rgba(6, 23, 37, .98);
+}
+
+header h4 {
+    position: absolute;
+    left: 10%;
+    bottom: 1rem;
+    font-size: 1.6rem;
+    opacity: 0;
+}
+
+.intro {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to bottom, var(--col1) 0%, var(--col2) 30%, var(--col3) 50%, var(--col4) 96%);
+    transition: 1s;
+}
+
+.logo-header {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    user-select: none;
+}
+
+.logo {
+    position: relative;
+    display: inline-block;
+    bottom: -20px;
+    opacity: 0;
+    
+}
+
+.logo.active {
+    bottom: 0;
+    opacity: 1;
+    transition: ease-in-out 0.5s;
+}
+
+.logo.fade {
+    bottom: 150px;
+    opacity: 0;
+    transition: ease-in-out 0.5s;
+}
+
+.appear {
+    animation: fadein 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.article__none * {
+    visibility: hidden;
+}
+
+.article__active * {
+    visibility: visible; 
+}
