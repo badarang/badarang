@@ -8,6 +8,11 @@
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<script language="javascript" type="text/javascript" src="js/script.js"></script>
 		<script language="javascript" type="text/javascript" src="js/jquery-1.8.3.js"></script>
+		<meta property="og:url" content="https://badarang.me">
+		<meta property="og:title" content="Badarang">
+		<meta property="og:type" content="website">
+		<meta property="og:image" content="assets/img/thumbnail.png">
+		<meta property="og:description" content="Indie game programmer">
 	</head>
 	
 	<style>
@@ -165,7 +170,7 @@
 				}
 			});
 			canvas.addEventListener("mouseup", getPosition, false);
-
+			//canvas.addEventListener("touchend", getPosition, false);
 			// Set up touch events for mobile, etc
 			canvas.addEventListener("touchstart", function (e) {
 				isClicked = true;
