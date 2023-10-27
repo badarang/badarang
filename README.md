@@ -1,4 +1,11 @@
-### Hi there 👋
+### 🎮Game Programmer & 🎤Beatboxer
+I have made games with GMS2 for 12 years. 
+Now I am developing a game with Unity.
+
+Furthermore, I have a strong passion for front-end development.
+
+My hobby is beatbox, 
+and I am interested in busking or competitions(GBB).
 
 <!--
 **badarang/badarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
