@@ -74,3 +74,49 @@ header h4 {
 .article__active * {
     visibility: visible; 
 }
+
+.grid-text {
+    grid-column: 1 / -1; /* Span across all columns */
+    grid-row: auto; /* Auto row placement */
+    
+    padding: 20px; /* Adjust padding as needed */
+    border-radius: 10px; /* Adjust border radius as needed */
+    text-align: center; /* Center align text */
+    margin: 20px 0; /* Add margin as needed */
+    pointer-events: none;
+}
+
+.grid-text__title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.grid-text__description {
+    font-size: 16px;
+}
+
+.profile__social {
+    display: flex;
+}
+
+.profile__social-link {
+    font-size: 24px; /* Adjust the font size as needed */
+    transition: transform 0.5s ease; /* Add a smooth transition */
+
+    /* Add more styling if needed */
+}
+
+.profile__social-link:first-child {
+    animation: shake 2s infinite; /* Apply the shake animation to the first link */
+}
+
+@keyframes shake {
+    0% { transform: translateX(0) }
+    25% { transform: translateY(-4px) }
+    35% { transform: translateY(-4px) rotate(17deg) }
+    55% { transform: scale(1.5) translateY(-4px) rotate(-17deg) }
+    65% { transform: translateY(-4px) rotate(17deg) }
+    75% { transform: translateY(-4px) rotate(-17deg) }
+    100% { transform: translateY(0) rotate(0) }
+  }
+
