@@ -12,10 +12,10 @@
 - Experienced in using Git for collaboration, conflict resolution, and version control.
 
 ### 💻 Technologies & Skills
-Languages: C++, C#, JavaScript, Python, GML Language
-Game Engines: Unity, GameMaker Studio 2
-Version Control: Git, GitHub
-Other: Web Development, Cybersecurity, Networks
+- Languages: C++, C#, JavaScript, Python, GML Language
+- Game Engines: Unity, GameMaker Studio 2
+- Version Control: Git, GitHub
+- Other: Web Development, Cybersecurity, Networks
 
 ### 🎮 Where to Find Me
 - Website: [haein.life](https://haein.life)
