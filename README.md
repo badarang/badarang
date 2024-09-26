@@ -6,7 +6,7 @@
 ### 🕹️ What I'm Working On
 #### 🌊 **Animal Jumping!**: A thrilling jump game set in a world facing a sea level rise crisis.
 ###### 🎯 **One-Touch Controls | Timing Precision**
-
+![Gameplay GIF](]https://imgur.com/a/Cv91hf6)
 ---
 
 ### 🌟 Highlights
@@ -26,14 +26,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
-
----
-
-### 💻 Technologies & Skills
-- **Languages**: C++, C#, JavaScript, Python, GML
-- **Engines**: Unity, GameMaker Studio 2
-- **Version Control**: Git, GitHub
-- **Other**: Web Development, Cybersecurity, Networks
 
 ---
 
