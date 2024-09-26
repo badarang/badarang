@@ -1,41 +1,46 @@
-# Hi there! 👋 I'm Haein Oh
-## Game Developer : Create Player-Centered, Thrilling Games
+# 👋 Hi, I'm Haein Oh
+## 🎮 Game Developer | Crafting Player-Centered, Thrilling Games
+
+---
 
 ### 🕹️ What I'm Working On
-#### A thrilling jump amid the sea level rise crisis, <Animal Jumping!>
-###### #Mobile #OneTouchManipulation #TimingJump
+#### 🌊 **Animal Jumping!**: A thrilling jump game set in a world facing a sea level rise crisis.
+###### 🎯 **One-Touch Controls | Timing Precision**
+
+---
 
 ### 🌟 Highlights
-- Completed the 1st Junggle Game Lab at Krafton, developed and released Necro Rumble along with 5 other games.
-- Selected for Smilegate Membership 16th Cohort, where I continue to refine my solo game development skills.
-- Released multiple games on the Google Play Store and Steam.
-- Experienced in using Git for collaboration, conflict resolution, and version control.
+- 🏆 **1st Krafton Jungle Game Lab**: Developed & released **Necro Rumble** on Steam.
+- 🎖️ **Smilegate Membership (16th Cohort)**: Refining solo game dev skills.
+- 🕹️ **Multiple Game Releases**: Available on Google Play Store and Steam.
+- 👥 **Team Collaboration**: Git & GitHub expert in conflict resolution and version control.
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GameMaker-FF0000?style=for-the-badge&logo=gamemaker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+---
 
 ### 💻 Technologies & Skills
-- Languages: C++, C#, JavaScript, Python, GML Language
-- Game Engines: Unity, GameMaker Studio 2
-- Version Control: Git, GitHub
-- Other: Web Development, Cybersecurity, Networks
+- **Languages**: C++, C#, JavaScript, Python, GML
+- **Engines**: Unity, GameMaker Studio 2
+- **Version Control**: Git, GitHub
+- **Other**: Web Development, Cybersecurity, Networks
 
-### 🎮 Where to Find Me
-- Website: [haein.life](https://haein.life)
-- Blog: [Badarangdev](https://blog.naver.com/badarangdev)
-- LinkedIn: [Haein Oh](https://www.linkedin.com/in/haein-oh-979b29304/)
-- Steam: [badarangdev](https://steamcommunity.com/profiles/76561198190681906/)
-- Instagram: [h4ein](https://instagram.com/h4ein)
-- League of Legend: 게임메이커스튜디오#123
+---
 
-<!--
-**badarang/badarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Where to Find Me
+- 🔗 **[Website](https://haein.life)**
+- 📝 **[Blog](https://blog.naver.com/badarangdev)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/haein-oh-979b29304/)**
+- 🎮 **[Steam](https://steamcommunity.com/profiles/76561198190681906/)**
+- 📸 **[Instagram](https://instagram.com/h4ein)**
+- 🎮 League of Legends: 게임메이커스튜디오#123
