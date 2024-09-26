@@ -6,7 +6,6 @@
 ### 🕹️ What I'm Working On
 #### 🌊 **Animal Jumping!**: A thrilling jump game set in a world facing a sea level rise crisis.
 ###### 🎯 **One-Touch Controls | Timing Precision**
-![githubgif](https://github.com/user-attachments/assets/47e17180-c927-4781-84e8-9d5eb18e2b52)
 ---
 
 ### 🌟 Highlights
