@@ -1,30 +1,26 @@
-Hi there! 👋 I'm Haein Oh
+# Hi there! 👋 I'm Haein Oh
+## Game Developer : Create Player-Centered, Thrilling Games
 
-Indie Game Developer | Designer | Explorer of Fun
+### 🕹️ What I'm Working On
+#### A thrilling jump amid the sea level rise crisis, <Animal Jumping!>
+###### #Mobile #OneTouchManipulation #TimingJump
 
-Welcome to my GitHub! I'm a solo indie game developer with a passion for creating immersive, strategy-based games. From platformers to roguelikes, my goal is to deliver unique experiences that challenge and excite players.
-
-🕹️ What I'm Working On
-Animal Jumping!: A thrilling mobile platformer set in a world facing rising sea levels, with a focus on strategic timing and one-touch controls.
-Necro Rumble: Developed during Krafton’s Jungle Game Lab, a roguelike game released on Steam.
-Exploring new ideas and gameplay mechanics through smaller indie projects.
-🌟 Highlights
+### 🌟 Highlights
 Completed the 1st Junggle Game Lab at Krafton, developed and released Necro Rumble along with 5 other games.
 Selected for Smilegate Membership 16th Cohort, where I continue to refine my solo game development skills.
 Released multiple games on the Google Play Store and Steam.
 Experienced in using Git for collaboration, conflict resolution, and version control.
-💻 Technologies & Skills
+
+### 💻 Technologies & Skills
 Languages: C#, JavaScript, Python
 Game Engines: Unity, GameMaker
 Version Control: Git, GitHub
 Other: UI/UX Design, Web Development, Cybersecurity, Networks
-🔭 Currently Learning
-Advanced gameplay mechanics and AI systems.
-Experimenting with roguelike elements in different genres.
-🎮 Where to Find Me
-LinkedIn: [Your LinkedIn URL]
-Steam: [Your Steam Game URL]
-Instagram: [Your Instagram URL for game updates]
+
+### 🎮 Where to Find Me
+LinkedIn: [Haein Oh](https://www.linkedin.com/in/haein-oh-979b29304/)
+Steam: [badarangdev](https://steamcommunity.com/profiles/76561198190681906/)
+Instagram: [h4ein](https://instagram.com/h4ein)
 
 <!--
 **badarang/badarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
