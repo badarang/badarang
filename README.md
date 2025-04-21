@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td width="160">
-      <a href="https://store.steampowered.com/app/2735950/Necro_Rumble/" target="_blank">
+      <a href="https://github.com/badarang/NecroRumble/" target="_blank">
         <img src="https://github.com/user-attachments/assets/3595473a-dd19-41cd-bf42-fb18d063f810" width="160">
       </a>
     </td>
