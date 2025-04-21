@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td width="160">
-      <a href="https://store.steampowered.com/app/2831450/Necro_Rumble/" target="_blank">
+      <a href="https://store.steampowered.com/app/2735950/Necro_Rumble/" target="_blank">
         <img src="https://github.com/user-attachments/assets/3595473a-dd19-41cd-bf42-fb18d063f810" width="160">
       </a>
     </td>
@@ -60,7 +60,7 @@
       - Krafton Jungle Lab 에픽 프로젝트, 전략 로그라이크 게임<br>
       - 유닛 기획 및 개발, 스킬 시스템 제작<br>
       <a href="https://github.com/badarang/NecroRumble" target="_blank">📂 GitHub Repo</a> |
-      <a href="https://store.steampowered.com/app/2831450/Necro_Rumble/" target="_blank">🎮 Steam Store</a>
+      <a href="https://store.steampowered.com/app/2735950/Necro_Rumble/" target="_blank">🎮 Steam Store</a>
     </td>
   </tr>
 </table>
