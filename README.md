@@ -59,7 +59,7 @@
       🔸 <strong>Necro Rumble (Steam)</strong><br>
       - Krafton Jungle Lab 에픽 프로젝트, 전략 로그라이크 게임<br>
       - 유닛 기획 및 개발, 스킬 시스템 제작<br>
-      <a href="https://github.com/너의유저이름/NecroRumble" target="_blank">📂 GitHub Repo</a> |
+      <a href="https://github.com/badarang/NecroRumble" target="_blank">📂 GitHub Repo</a> |
       <a href="https://store.steampowered.com/app/2831450/Necro_Rumble/" target="_blank">🎮 Steam Store</a>
     </td>
   </tr>
