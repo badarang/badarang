@@ -70,7 +70,7 @@
 
 ### 🌐 Where to Find Me
 - 🔗 **[Website](https://haein.life)**
-- 📝 **[Blog](https://blog.naver.com/badarangdev)**
+- 📝 **[Blog](https://badarang.tistory.com)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/haein-oh-979b29304/)**
 - 🎮 **[Steam](https://steamcommunity.com/profiles/76561198190681906/)**
 - 📸 **[Instagram](https://instagram.com/h4ein)**
