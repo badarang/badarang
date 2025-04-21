@@ -28,6 +28,46 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="160">
+      <a href="https://github.com/badarang/AnimalJumping_Sample" target="_blank">
+        <img src="https://github.com/user-attachments/assets/c2c46ec6-770c-46db-8af2-b604e30742c5" width="160">
+      </a>
+    </td>
+    <td valign="middle">
+      🔹 <strong>Animal Jumping!</strong><br>
+      - 유니티 기반 캐주얼 액션 게임<br>
+      - 프리팹 기반 최적화된 맵 생성, 모바일 출시 완료<br>
+      <a href="https://github.com/badarang/AnimalJumping_Sample" target="_blank">📂 GitHub Repo</a> |
+      <a href="https://play.google.com/store/apps/details?id=com.Badarang.AnimalJumping&hl=ko" target="_blank">📱 Android</a> |
+      <a href="https://apps.apple.com/kr/app/%EC%95%A0%EB%8B%88%EB%A9%80-%EC%A0%90%ED%95%91/id6590631455" target="_blank">🍎 iOS</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="160">
+      <a href="https://store.steampowered.com/app/2831450/Necro_Rumble/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/3595473a-dd19-41cd-bf42-fb18d063f810" width="160">
+      </a>
+    </td>
+    <td valign="middle">
+      🔸 <strong>Necro Rumble (Steam)</strong><br>
+      - Krafton Jungle Lab 에픽 프로젝트, 전략 로그라이크 게임<br>
+      - 유닛 기획 및 개발, 스킬 시스템 제작<br>
+      <a href="https://github.com/너의유저이름/NecroRumble" target="_blank">📂 GitHub Repo</a> |
+      <a href="https://store.steampowered.com/app/2831450/Necro_Rumble/" target="_blank">🎮 Steam Store</a>
+    </td>
+  </tr>
+</table>
+
+
+---
+
 ### 🌐 Where to Find Me
 - 🔗 **[Website](https://haein.life)**
 - 📝 **[Blog](https://blog.naver.com/badarangdev)**
