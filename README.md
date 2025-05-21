@@ -16,10 +16,6 @@
 
 ---
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gooderthanu)](https://solved.ac/gooderthanu)
-
----
-
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/GameMaker-FF0000?style=for-the-badge&logo=gamemaker&logoColor=white"/>
@@ -78,3 +74,8 @@
 - 🎮 **[Steam](https://steamcommunity.com/profiles/76561198190681906/)**
 - 📸 **[Instagram](https://instagram.com/h4ein)**
 - 🎮 League of Legends: GameMaker Studio#123 (KR)
+
+---
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gooderthanu)](https://solved.ac/gooderthanu)
+
