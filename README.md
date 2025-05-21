@@ -16,6 +16,10 @@
 
 ---
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gooderthanu)](https://solved.ac/gooderthanu)
+
+---
+
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/GameMaker-FF0000?style=for-the-badge&logo=gamemaker&logoColor=white"/>
@@ -64,7 +68,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
