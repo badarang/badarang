@@ -68,7 +68,7 @@
 ---
 
 ### 🌐 Where to Find Me
-- 🔗 **[Website](https://haein.life)**
+- 🔗 **[Website](https://badarang.netlify.app)**
 - 📝 **[Blog](https://badarang.tistory.com)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/haein-oh-979b29304/)**
 - 🎮 **[Steam](https://steamcommunity.com/profiles/76561198190681906/)**
