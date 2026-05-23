@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://haeinoh.vercel.app">
-  <img src="./assets/img/hero.png" alt="Haein Oh — Rapid Gameplay Programmer" width="100%" />
-</a>
+<video src="./assets/img/hero.mp4" autoplay loop muted playsinline controls width="100%"></video>
 
 <br/><br/>
 
@@ -177,16 +175,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-## &nbsp;📦&nbsp; Project Archive
-
-<p align="center">
-  <a href="https://haeinoh.vercel.app">
-    <img src="https://img.shields.io/badge/Browse%20the%20Full%20Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" alt="Browse the full portfolio" />
-  </a>
-</p>
 
 <br/>
 
