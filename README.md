@@ -1,79 +1,71 @@
-# 👋 Hi, I'm Haein Oh
-## 🎮 Game Developer | Crafting Player-Centered, Thrilling Games
+# Haein Oh
 
----
+Gameplay Programmer focused on rapid prototyping, mobile live-service development, and player-first game feel.
 
-### 🕹️ What I'm Working On
-#### 🌊 **Animal Jumping!**: A thrilling jump game set in a world facing a sea level rise crisis.
-###### 🎯 **One-Touch Controls | Timing Precision**
----
+- Portfolio: https://haeinoh.vercel.app
+- GitHub: https://github.com/badarang
+- LinkedIn: https://www.linkedin.com/in/haein-oh-979b29304/
+- itch.io: https://badarang.itch.io
+- Email: badarangdev@gmail.com
 
-### 🌟 Highlights
-- 🏆 **1st Krafton Jungle Game Lab**: Developed & released **Necro Rumble** on Steam.
-- 🎖️ **Smilegate Membership (16th Cohort)**: Refining solo game dev skills.
-- 🕹️ **Multiple Game Releases**: Available on Google Play Store and Steam.
-- 👥 **Team Collaboration**: Git & GitHub expert in conflict resolution and version control.
+## Focus
 
----
+- Building playable prototypes quickly, then turning the strongest ideas into stable production features.
+- Gameplay systems, combat feel, mobile UX, and live-service troubleshooting.
+- Internal tools and AI-assisted workflows that reduce repetitive work for developers and designers.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GameMaker-FF0000?style=for-the-badge&logo=gamemaker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+## Experience
 
----
+### Halfbrick Studios
 
-### 🚀 Featured Projects
+Gameplay Programmer
 
-<table>
-  <tr>
-    <td width="160">
-      <a href="https://github.com/badarang/AnimalJumping_Sample" target="_blank">
-        <img src="https://github.com/user-attachments/assets/c2c46ec6-770c-46db-8af2-b604e30742c5" width="160">
-      </a>
-    </td>
-    <td valign="middle">
-      🔹 <strong>Animal Jumping!</strong><br>
-      - 유니티 기반 캐주얼 액션 게임<br>
-      - 프리팹 기반 최적화된 맵 생성, 모바일 출시 완료<br>
-      <a href="https://github.com/badarang/AnimalJumping_Sample" target="_blank">📂 GitHub Repo</a> |
-      <a href="https://play.google.com/store/apps/details?id=com.Badarang.AnimalJumping&hl=ko" target="_blank">📱 Android</a> |
-      <a href="https://apps.apple.com/kr/app/%EC%95%A0%EB%8B%88%EB%A9%80-%EC%A0%90%ED%95%91/id6590631455" target="_blank">🍎 iOS</a>
-    </td>
-  </tr>
-</table>
+- Contributed to Jetpack Joyride Racing feature development, soft launch, and global launch work.
+- Worked across the Halfbrick+ HubApp ecosystem.
+- Supported live mobile stability through QA, dogfooding, Crashlytics analysis, bug fixing, and SDK maintenance.
+- Collaborated with an international team on day-to-day live-service issues.
 
-<table>
-  <tr>
-    <td width="160">
-      <a href="https://github.com/badarang/NecroRumble/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/3595473a-dd19-41cd-bf42-fb18d063f810" width="160">
-      </a>
-    </td>
-    <td valign="middle">
-      🔸 <strong>Necro Rumble (Steam)</strong><br>
-      - Krafton Jungle Lab 에픽 프로젝트, 전략 로그라이크 게임<br>
-      - 유닛 기획 및 개발, 스킬 시스템 제작<br>
-      <a href="https://github.com/badarang/NecroRumble" target="_blank">📂 GitHub Repo</a> |
-      <a href="https://store.steampowered.com/app/2735950/Necro_Rumble/" target="_blank">🎮 Steam Store</a>
-    </td>
-  </tr>
-</table>
+### 111%
 
----
+Game Client Programmer
 
-### 🌐 Where to Find Me
-- 🔗 **[Website](https://badarang.netlify.app)**
-- 📝 **[Blog](https://badarang.tistory.com)**
-- 💼 **[LinkedIn](https://www.linkedin.com/in/haein-oh-979b29304/)**
-- 🎮 **[Steam](https://steamcommunity.com/profiles/76561198190681906/)**
-- 📸 **[Instagram](https://instagram.com/h4ein)**
-- 🎮 League of Legends: GameMaker Studio#123 (KR)
+- Designed and implemented 70+ achievement systems.
+- Developed combat, boss, skin, augment, event, and live-service systems.
+- Worked with Unity, Firebase, Jenkins, Git, Redmine, and production QA workflows.
+- Improved data integration and iteration speed for new game features.
 
----
+## Selected Projects
 
+### Moai Wanna Slam
+
+A solo Lua/LÖVE action project built around fast iteration and responsive game feel.
+
+- Built gameplay, collision, animation timing, and state flow from scratch.
+- Used the project as a compact testbed for rapid action-game prototyping.
+- Link: https://badarang.itch.io
+
+### Necro Rumble
+
+Steam strategy roguelike developed through Krafton Jungle Game Lab.
+
+- Contributed unit design, gameplay systems, and skill implementation.
+- Released on Steam and reached 40,000+ copies distributed.
+- Steam: https://store.steampowered.com/app/2735950/Necro_Rumble/
+- GitHub: https://github.com/badarang/NecroRumble
+
+### Animal Jumping!
+
+Solo mobile project built in Unity.
+
+- Implemented one-touch controls, procedural map flow, optimization work, AdMob/IAP, and real-time 1v1 features with BACKND Match.
+- The Google Play listing is no longer active, so the README now links to maintained references instead.
+- GitHub sample: https://github.com/badarang/AnimalJumping_Sample
+- Press: https://www.pinpointnews.co.kr/news/articleView.html?idxno=305741
+
+## Tech
+
+Unity, C#, Lua, LÖVE, JavaScript, React, Electron, Firebase, Crashlytics, Supabase, Jenkins, Git, Perforce, Redmine, GameMaker.
+
+## Current Direction
+
+I am currently sharpening my portfolio around fast gameplay prototyping, mobile live-service reliability, internal tool development, and AI-assisted production workflows.
