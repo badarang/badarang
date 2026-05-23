@@ -1,6 +1,6 @@
 <div align="center">
 
-<video src="./assets/img/hero.mp4" autoplay loop muted playsinline controls width="100%"></video>
+<img src="./assets/img/hero.gif" alt="Haein Oh — Rapid Gameplay Programmer" width="100%" />
 
 <br/><br/>
 
@@ -19,7 +19,7 @@
 
 ## &nbsp;🎮&nbsp; What I Build
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="33%">
       <h2>🕹️</h2>
@@ -91,14 +91,16 @@
 <table>
   <tr>
     <td align="center" width="220">
-      <img src="https://img.shields.io/badge/Halfbrick%20Studios-FF6B35?style=for-the-badge&logoColor=white" /><br/>
+      <img src="./assets/img/halfbrick.jpg" width="52" alt="Halfbrick Studios" /><br/>
+      <b>Halfbrick Studios</b><br/>
       <sub><b>Gameplay Programmer</b></sub>
     </td>
     <td>Mobile live-service game development — crashlytics, QA loops, SDK maintenance, and feature delivery.</td>
   </tr>
   <tr>
     <td align="center" width="220">
-      <img src="https://img.shields.io/badge/111%25-6366F1?style=for-the-badge&logoColor=white" /><br/>
+      <img src="./assets/img/111percent.svg" width="52" alt="111%" /><br/>
+      <b>111%</b><br/>
       <sub><b>Gameplay Programmer</b></sub>
     </td>
     <td>Mobile gameplay systems, content production, and live-service feature implementation.</td>
