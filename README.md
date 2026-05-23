@@ -88,22 +88,58 @@
 
 ## &nbsp;💼&nbsp; Experience
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="220">
-      <img src="./assets/img/halfbrick.jpg" width="52" alt="Halfbrick Studios" /><br/>
+    <td align="center" width="260">
+      <img src="./assets/img/halfbrick.jpg" width="58" alt="Halfbrick Studios" /><br/>
       <b>Halfbrick Studios</b><br/>
-      <sub><b>Gameplay Programmer</b></sub>
+      <sub><b>Gameplay Programmer</b></sub><br/><br/>
+      <a href="https://www.youtube.com/watch?v=6PWzxNSnN20">
+        <img src="https://img.youtube.com/vi/6PWzxNSnN20/hqdefault.jpg" width="240" alt="Jetpack Joyride Racing video" />
+      </a><br/>
+      <sub><a href="https://www.youtube.com/watch?v=6PWzxNSnN20">▶ Watch related video</a></sub>
     </td>
-    <td>Mobile live-service game development — crashlytics, QA loops, SDK maintenance, and feature delivery.</td>
+    <td>
+      <h3>Jetpack Joyride Racing / Halfbrick+ HubApp</h3>
+      <p>Mobile live-service gameplay and platform ecosystem work.</p>
+      <ul>
+        <li>Contributed to Jetpack Joyride Racing feature development, soft launch, and global launch support.</li>
+        <li>Built and maintained features across the Halfbrick+ HubApp ecosystem.</li>
+        <li>Handled Crashlytics-based crash analysis, QA loops, dogfooding feedback, bug fixing, and SDK maintenance.</li>
+      </ul>
+      <p>
+        <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+        <img alt="Crashlytics" src="https://img.shields.io/badge/Crashlytics-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img alt="Perforce" src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" />
+        <img alt="LiveOps" src="https://img.shields.io/badge/Mobile%20LiveOps-22D3EE?style=flat-square" />
+      </p>
+    </td>
   </tr>
   <tr>
-    <td align="center" width="220">
-      <img src="./assets/img/111percent.svg" width="52" alt="111%" /><br/>
+    <td align="center" width="260">
+      <img src="./assets/img/111percent.svg" width="58" alt="111%" /><br/>
       <b>111%</b><br/>
-      <sub><b>Gameplay Programmer</b></sub>
+      <sub><b>Game Client Programmer</b></sub><br/><br/>
+      <a href="https://www.youtube.com/watch?v=uXJrp3pT7Yc">
+        <img src="https://img.youtube.com/vi/uXJrp3pT7Yc/hqdefault.jpg" width="240" alt="111% project video" />
+      </a><br/>
+      <sub><a href="https://www.youtube.com/watch?v=uXJrp3pT7Yc">▶ Watch related video</a></sub>
     </td>
-    <td>Mobile gameplay systems, content production, and live-service feature implementation.</td>
+    <td>
+      <h3>111% Live-Service Mobile Game</h3>
+      <p>Gameplay systems, content production, and live-service feature implementation.</p>
+      <ul>
+        <li>Designed and implemented 70+ achievement systems.</li>
+        <li>Developed combat, boss, skin, augment, event, and live-service systems.</li>
+        <li>Improved new-feature data integration and worked through Redmine QA / troubleshooting workflows.</li>
+      </ul>
+      <p>
+        <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+        <img alt="Redmine" src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=redmine&logoColor=white" />
+      </p>
+    </td>
   </tr>
 </table>
 
