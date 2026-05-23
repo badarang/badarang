@@ -21,20 +21,20 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <h2>🕹️</h2>
-      <b>Gameplay</b><br/>
-      <sub>Combat feel, controls, mobile UI<br/>and fast Unity prototyping</sub>
+    <td align="center" width="33%" valign="top">
+      <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="42" height="42" alt="Gameplay" /><br/><br/>
+      <b>Gameplay</b><br/><br/>
+      <sub>Combat feel, controls,<br/>mobile UI, and fast<br/>Unity prototyping</sub>
     </td>
-    <td align="center" width="33%">
-      <h2>⚡</h2>
-      <b>Live Service</b><br/>
-      <sub>Crashlytics, QA loops, SDK<br/>maintenance, launch support</sub>
+    <td align="center" width="33%" valign="top">
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="42" height="42" alt="Live Service" /><br/><br/>
+      <b>Live Service</b><br/><br/>
+      <sub>Crashlytics, QA loops,<br/>SDK maintenance,<br/>launch support</sub>
     </td>
-    <td align="center" width="33%">
-      <h2>🤖</h2>
-      <b>Tools &amp; AI</b><br/>
-      <sub>Internal tools, automation,<br/>AI-assisted production workflows</sub>
+    <td align="center" width="33%" valign="top">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="42" height="42" alt="Tools and AI" /><br/><br/>
+      <b>Tools &amp; AI</b><br/><br/>
+      <sub>Internal tools,<br/>automation, and AI-assisted<br/>production workflows</sub>
     </td>
   </tr>
 </table>
