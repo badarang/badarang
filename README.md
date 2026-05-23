@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=220&section=header&text=Haein%20Oh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Rapid%20Gameplay%20Programmer&descAlignY=62&descSize=20&descColor=22D3EE" width="100%" alt="Haein Oh — Rapid Gameplay Programmer" />
-
-<a href="https://github.com/badarang">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=640&lines=Fast+Prototypes;Responsive+Game+Feel;Live+Service+Reliability;Tools+%26+AI+Workflows" alt="What I do" />
+<a href="https://haeinoh.vercel.app">
+  <img src="./assets/img/hero.png" alt="Haein Oh — Rapid Gameplay Programmer" width="100%" />
 </a>
 
 <br/><br/>
