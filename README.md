@@ -1,101 +1,35 @@
-<table>
-  <tr>
-    <td width="74%">
-      <img src="./assets/img/readme-banner.svg" alt="Haein Oh - Rapid Gameplay Programmer" />
-    </td>
-    <td width="26%" align="center">
-      <img src="./assets/img/profile-haein.jpg" width="136" alt="Haein Oh profile photo" />
-      <br/>
-      <h2>Haein Oh</h2>
-      <b>Gameplay Programmer</b>
-      <br/>
-      <sub>Fast prototypes · Game feel · Live service</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/img/readme-hero.svg" alt="Haein Oh - Rapid Gameplay Programmer" />
+</p>
 
 I build fast prototypes, responsive game feel, and production-ready gameplay systems for mobile and live-service games.
 
-<table>
-  <tr>
-    <td align="center"><a href="https://haeinoh.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-haeinoh.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/haein-oh-979b29304/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Haein%20Oh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    <td align="center"><a href="mailto:badarangdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-badarangdev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
-    <td align="center"><a href="https://badarang.itch.io"><img alt="itch.io" src="https://img.shields.io/badge/itch.io-badarang-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://haeinoh.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/haein-oh-979b29304/">LinkedIn</a> ·
+  <a href="mailto:badarangdev@gmail.com">Email</a> ·
+  <a href="https://badarang.itch.io">itch.io</a>
+</p>
 
 ---
 
 ## What I Build
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="44" alt="Unity" />
-      <h3>Gameplay</h3>
-      Combat feel, controls, mobile UX, fast Unity prototyping.
-    </td>
-    <td align="center" width="33%">
-      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="44" alt="Firebase" />
-      <h3>Live Service</h3>
-      Crashlytics, QA loops, SDK maintenance, launch support.
-    </td>
-    <td align="center" width="33%">
-      <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="44" alt="AI workflows" />
-      <h3>Tools & AI</h3>
-      Internal tools, automation, AI-assisted production workflows.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/img/focus-cards.svg" alt="Gameplay, Live Service, Tools and AI" />
+</p>
 
 ## Stack
 
-<table>
-  <tr>
-    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/unity/FFFFFF" width="36" alt="Unity" /><br/><b>Unity</b></td>
-    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/csharp/9B4F96" width="36" alt="C Sharp" /><br/><b>C#</b></td>
-    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/lua/2C2D72" width="36" alt="Lua" /><br/><b>Lua</b></td>
-    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/love/EA316E" width="36" alt="LOVE" /><br/><b>LÖVE</b></td>
-    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/gamemaker/FFFFFF" width="36" alt="GameMaker" /><br/><b>GameMaker</b></td>
-    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" alt="JavaScript" /><br/><b>JavaScript</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" alt="React" /><br/><b>React</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" alt="Firebase" /><br/><b>Firebase</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="36" alt="Supabase" /><br/><b>Supabase</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/jenkins/D24939" width="36" alt="Jenkins" /><br/><b>Jenkins</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="36" alt="Git" /><br/><b>Git</b></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/perforce/FFFFFF" width="36" alt="Perforce" /><br/><b>Perforce</b></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/img/stack-grid.svg" alt="Unity, C#, Lua, LÖVE, GameMaker, JavaScript, React, Firebase, Supabase, Jenkins, Git, Perforce" />
+</p>
 
 ## Experience
 
-<table>
-  <tr>
-    <td width="50%">
-      <p align="center"><img src="./assets/img/halfbrick.jpg" width="76" alt="Halfbrick Studios" /></p>
-      <h3 align="center">Halfbrick Studios</h3>
-      <p align="center"><b>Gameplay Programmer</b></p>
-      <ul>
-        <li>Jetpack Joyride Racing feature development, soft launch, and global launch support.</li>
-        <li>Halfbrick+ HubApp ecosystem feature work.</li>
-        <li>QA, dogfooding, Crashlytics analysis, bug fixing, and SDK maintenance.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <p align="center"><img src="./assets/img/111percent.svg" width="76" alt="111%" /></p>
-      <h3 align="center">111%</h3>
-      <p align="center"><b>Game Client Programmer</b></p>
-      <ul>
-        <li>Designed and implemented 70+ achievement systems.</li>
-        <li>Combat, boss, skin, augment, event, and live-service systems.</li>
-        <li>Unity, Firebase, Jenkins, Git, Redmine, and production QA workflows.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/img/experience-cards.svg" alt="Halfbrick Studios and 111% experience" />
+</p>
 
 ## Featured Work
 
@@ -169,7 +103,7 @@ I build fast prototypes, responsive game feel, and production-ready gameplay sys
 ## Project Archive
 
 <a href="https://haeinoh.vercel.app">
-  <img alt="Project archive" src="https://img.shields.io/badge/View%20Full%20Project%20Archive-haeinoh.vercel.app-22D3EE?style=for-the-badge&logo=vercel&logoColor=111827" />
+  <img alt="Project archive" src="./assets/img/archive-button.svg" />
 </a>
 
 ## Current Direction
