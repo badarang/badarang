@@ -1,16 +1,20 @@
-<p align="center">
-  <img src="./assets/img/readme-banner.svg" alt="Haein Oh - Rapid Gameplay Programmer" />
-</p>
+<table>
+  <tr>
+    <td width="74%">
+      <img src="./assets/img/readme-banner.svg" alt="Haein Oh - Rapid Gameplay Programmer" />
+    </td>
+    <td width="26%" align="center">
+      <img src="./assets/img/profile-haein.jpg" width="136" alt="Haein Oh profile photo" />
+      <br/>
+      <h2>Haein Oh</h2>
+      <b>Gameplay Programmer</b>
+      <br/>
+      <sub>Fast prototypes · Game feel · Live service</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="./assets/img/profile-haein.jpg" width="96" alt="Haein Oh profile photo" />
-</p>
-
-# Haein Oh
-
-**Gameplay Programmer** focused on fast prototypes, mobile live-service development, and player-first game feel.
-
-I like turning rough ideas into playable builds quickly, then polishing the parts that actually make players feel something.
+I build fast prototypes, responsive game feel, and production-ready gameplay systems for mobile and live-service games.
 
 <table>
   <tr>
@@ -25,63 +29,103 @@ I like turning rough ideas into playable builds quickly, then polishing the part
 
 ## What I Build
 
-| Gameplay | Live Service | Tools & AI |
-|---|---|---|
-| Combat feel, controls, mobile UX, fast Unity prototyping | Crashlytics, QA loops, SDK maintenance, launch support | Internal tools, automation, AI-assisted production workflows |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="44" alt="Unity" />
+      <h3>Gameplay</h3>
+      Combat feel, controls, mobile UX, fast Unity prototyping.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="44" alt="Firebase" />
+      <h3>Live Service</h3>
+      Crashlytics, QA loops, SDK maintenance, launch support.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="44" alt="AI workflows" />
+      <h3>Tools & AI</h3>
+      Internal tools, automation, AI-assisted production workflows.
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
 <table>
   <tr>
-    <td width="18%"><b>Engines</b></td>
-    <td>
-      <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-      <img alt="LOVE" src="https://img.shields.io/badge/LOVE-EA316E?style=flat-square&logo=love&logoColor=white" />
-      <img alt="GameMaker" src="https://img.shields.io/badge/GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=white" />
-    </td>
+    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/unity/FFFFFF" width="36" alt="Unity" /><br/><b>Unity</b></td>
+    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/csharp/9B4F96" width="36" alt="C Sharp" /><br/><b>C#</b></td>
+    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/lua/2C2D72" width="36" alt="Lua" /><br/><b>Lua</b></td>
+    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/love/EA316E" width="36" alt="LOVE" /><br/><b>LÖVE</b></td>
+    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/gamemaker/FFFFFF" width="36" alt="GameMaker" /><br/><b>GameMaker</b></td>
+    <td align="center" width="16%"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" alt="JavaScript" /><br/><b>JavaScript</b></td>
   </tr>
   <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img alt="C Sharp" src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" />
-      <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Web & Data</b></td>
-    <td>
-      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111" />
-      <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111111" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Workflow</b></td>
-    <td>
-      <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img alt="Perforce" src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" />
-    </td>
+    <td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" alt="React" /><br/><b>React</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" alt="Firebase" /><br/><b>Firebase</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="36" alt="Supabase" /><br/><b>Supabase</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/jenkins/D24939" width="36" alt="Jenkins" /><br/><b>Jenkins</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="36" alt="Git" /><br/><b>Git</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/perforce/FFFFFF" width="36" alt="Perforce" /><br/><b>Perforce</b></td>
   </tr>
 </table>
 
 ## Experience
 
-| Halfbrick Studios | 111% |
-|---|---|
-| **Gameplay Programmer** | **Game Client Programmer** |
-| Jetpack Joyride Racing feature development, soft launch, and global launch support. | Designed and implemented 70+ achievement systems. |
-| Halfbrick+ HubApp ecosystem feature work. | Combat, boss, skin, augment, event, and live-service systems. |
-| QA, dogfooding, Crashlytics analysis, bug fixing, and SDK maintenance. | Unity, Firebase, Jenkins, Git, Redmine, and production QA workflows. |
+<table>
+  <tr>
+    <td width="50%">
+      <p align="center"><img src="./assets/img/halfbrick.jpg" width="76" alt="Halfbrick Studios" /></p>
+      <h3 align="center">Halfbrick Studios</h3>
+      <p align="center"><b>Gameplay Programmer</b></p>
+      <ul>
+        <li>Jetpack Joyride Racing feature development, soft launch, and global launch support.</li>
+        <li>Halfbrick+ HubApp ecosystem feature work.</li>
+        <li>QA, dogfooding, Crashlytics analysis, bug fixing, and SDK maintenance.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <p align="center"><img src="./assets/img/111percent.svg" width="76" alt="111%" /></p>
+      <h3 align="center">111%</h3>
+      <p align="center"><b>Game Client Programmer</b></p>
+      <ul>
+        <li>Designed and implemented 70+ achievement systems.</li>
+        <li>Combat, boss, skin, augment, event, and live-service systems.</li>
+        <li>Unity, Firebase, Jenkins, Git, Redmine, and production QA workflows.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Featured Work
 
 <table>
   <tr>
     <td width="240">
+      <a href="https://youtu.be/NQWIjDBJFcg?si=7qa5_IgFxliFEN-9">
+        <img src="./assets/img/project22.png" width="240" alt="Moai Wanna Slam" />
+      </a>
+    </td>
+    <td>
+      <h3>Moai Wanna Slam</h3>
+      <p>Solo Lua/LÖVE action project focused on responsive combat and fast iteration.</p>
+      <p>
+        <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+        <img alt="LOVE" src="https://img.shields.io/badge/LOVE-EA316E?style=flat-square&logo=love&logoColor=white" />
+        <img alt="Latest" src="https://img.shields.io/badge/Latest-Prototype-22D3EE?style=flat-square" />
+      </p>
+      <ul>
+        <li>Improved multiplayer lag issues on Android builds.</li>
+        <li>Resolved shader rendering differences across iOS, APK, and PC builds.</li>
+        <li>Built a DDQN-based AI bot for match testing.</li>
+      </ul>
+      <a href="https://youtu.be/NQWIjDBJFcg?si=7qa5_IgFxliFEN-9">Video</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="240">
       <a href="https://store.steampowered.com/app/2735950/Necro_Rumble/">
-        <img src="https://github.com/user-attachments/assets/3595473a-dd19-41cd-bf42-fb18d063f810" width="240" alt="Necro Rumble" />
+        <img src="./assets/img/project19.png" width="240" alt="Necro Rumble" />
       </a>
     </td>
     <td>
@@ -102,7 +146,7 @@ I like turning rough ideas into playable builds quickly, then polishing the part
   <tr>
     <td width="240">
       <a href="https://github.com/badarang/AnimalJumping_Sample">
-        <img src="https://github.com/user-attachments/assets/c2c46ec6-770c-46db-8af2-b604e30742c5" width="240" alt="Animal Jumping" />
+        <img src="./assets/img/project20.png" width="240" alt="Animal Jumping" />
       </a>
     </td>
     <td>
@@ -122,21 +166,11 @@ I like turning rough ideas into playable builds quickly, then polishing the part
   </tr>
 </table>
 
-## More Prototypes
+## Project Archive
 
-<details>
-  <summary><b>Open archive</b></summary>
-  <br/>
-
-  | Project | Link |
-  |---|---|
-  | Moai Wanna Slam | https://badarang.itch.io |
-  | Collecting Ninja | https://badarang.itch.io/collecting-ninja |
-  | Monster Rush Tactics | https://badarang.itch.io/monsterrushtactics |
-  | Among the Stars | https://badarang.itch.io/among-the-stars |
-  | Dash and Friends | https://badarang.itch.io/dash-and-friends |
-  | Full portfolio archive | https://haeinoh.vercel.app |
-</details>
+<a href="https://haeinoh.vercel.app">
+  <img alt="Project archive" src="https://img.shields.io/badge/View%20Full%20Project%20Archive-haeinoh.vercel.app-22D3EE?style=for-the-badge&logo=vercel&logoColor=111827" />
+</a>
 
 ## Current Direction
 
