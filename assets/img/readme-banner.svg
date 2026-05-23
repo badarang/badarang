@@ -1,0 +1,19 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="28" fill="#0D1117"/>
+  <rect x="38" y="38" width="1124" height="284" rx="22" fill="#111827" stroke="#30363D"/>
+  <circle cx="1026" cy="96" r="70" fill="#22D3EE" opacity="0.18"/>
+  <circle cx="1110" cy="232" r="96" fill="#8B5CF6" opacity="0.16"/>
+  <circle cx="150" cy="260" r="110" fill="#F97316" opacity="0.10"/>
+  <path d="M76 88H220" stroke="#22D3EE" stroke-width="10" stroke-linecap="round"/>
+  <path d="M76 116H154" stroke="#F97316" stroke-width="10" stroke-linecap="round"/>
+  <text x="76" y="178" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Haein Oh</text>
+  <text x="78" y="226" fill="#22D3EE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Rapid Gameplay Programmer</text>
+  <text x="78" y="272" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">Unity / Live Service / Game Feel / Tools / AI Workflows</text>
+  <g transform="translate(870 121)">
+    <rect x="0" y="0" width="210" height="118" rx="18" fill="#0B1220" stroke="#334155"/>
+    <circle cx="46" cy="58" r="18" fill="#22D3EE"/>
+    <rect x="86" y="36" width="82" height="12" rx="6" fill="#F8FAFC"/>
+    <rect x="86" y="60" width="54" height="12" rx="6" fill="#64748B"/>
+    <path d="M42 52L52 58L42 64V52Z" fill="#0B1220"/>
+  </g>
+</svg>
