@@ -2,7 +2,9 @@
   <img src="./assets/img/readme-banner.svg" alt="Haein Oh - Rapid Gameplay Programmer" />
 </p>
 
-<img align="right" src="./assets/img/profile-haein.jpg" width="150" alt="Haein Oh profile photo" />
+<p align="center">
+  <img src="./assets/img/profile-haein.jpg" width="96" alt="Haein Oh profile photo" />
+</p>
 
 # Haein Oh
 
@@ -10,12 +12,14 @@
 
 I like turning rough ideas into playable builds quickly, then polishing the parts that actually make players feel something.
 
-<p>
-  <a href="https://haeinoh.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-haeinoh.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/haein-oh-979b29304/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Haein%20Oh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:badarangdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-badarangdev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://badarang.itch.io"><img alt="itch.io" src="https://img.shields.io/badge/itch.io-badarang-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
-</p>
+<table>
+  <tr>
+    <td align="center"><a href="https://haeinoh.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-haeinoh.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/haein-oh-979b29304/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Haein%20Oh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    <td align="center"><a href="mailto:badarangdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-badarangdev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
+    <td align="center"><a href="https://badarang.itch.io"><img alt="itch.io" src="https://img.shields.io/badge/itch.io-badarang-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -27,20 +31,40 @@ I like turning rough ideas into playable builds quickly, then polishing the part
 
 ## Stack
 
-<p>
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" />
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-  <img alt="LOVE" src="https://img.shields.io/badge/LOVE-EA316E?style=flat-square&logo=love&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111111" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Perforce" src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" />
-  <img alt="GameMaker" src="https://img.shields.io/badge/GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td width="18%"><b>Engines</b></td>
+    <td>
+      <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+      <img alt="LOVE" src="https://img.shields.io/badge/LOVE-EA316E?style=flat-square&logo=love&logoColor=white" />
+      <img alt="GameMaker" src="https://img.shields.io/badge/GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img alt="C Sharp" src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" />
+      <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web & Data</b></td>
+    <td>
+      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111" />
+      <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111111" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Workflow</b></td>
+    <td>
+      <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img alt="Perforce" src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ## Experience
 
